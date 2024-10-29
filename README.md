@@ -6,6 +6,7 @@
 
 Starts a local web server which lets you apply the other tools to all `*.rb`
 files in a directory subtree.
+test
 
 ### call-graph
 
